@@ -58,6 +58,148 @@ Proyecto desarrollado como aplicación de entretenimiento educativo con arquitec
 - Assets personalizados
 - Componentes reutilizables
 
+## �📸 Imágenes de la Aplicación
+
+### Icono de la Aplicación
+
+<div align="center">
+<img src="assets/icons/app_icon.png" width="140" alt="App Icon"/>
+</div>
+
+### Pantallas Principales
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>Splash/Carga</b><br><br>
+<img src="assets/unizumi/carga_app.jpg" width="220" alt="Splash Screen"/>
+</td>
+<td align="center">
+<b>Bienvenida</b><br><br>
+<img src="assets/unizumi/welcome_screen.jpg" width="220" alt="Welcome Screen"/>
+</td>
+</tr>
+</table>
+</div>
+
+### Configuración del Quiz
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>Selección de Categorías</b><br><br>
+<img src="assets/unizumi/category_1.jpg" width="220" alt="Category Selection"/>
+</td>
+<td align="center">
+<b>Categoría Seleccionada</b><br><br>
+<img src="assets/unizumi/category_1n.jpg" width="220" alt="Category Selected"/>
+</td>
+</tr>
+<td align="center">
+<b>Selección de Categorías</b><br><br>
+<img src="assets/unizumi/category_2.jpg" width="220" alt="Category Selection"/>
+</td>
+<td align="center">
+<b>Categoría Seleccionada</b><br><br>
+<img src="assets/unizumi/category_2n.jpg" width="220" alt="Category Selected"/>
+</td>
+</tr><td align="center">
+<b>Selección de Categorías</b><br><br>
+<img src="assets/unizumi/category_3.jpg" width="220" alt="Category Selection"/>
+</td>
+<td align="center">
+<b>Categoría Seleccionada</b><br><br>
+<img src="assets/unizumi/category_3n.jpg" width="220" alt="Category Selected"/>
+</td>
+</tr><td align="center">
+<b>Selección de Categorías</b><br><br>
+<img src="assets/unizumi/category_4.jpg" width="220" alt="Category Selection"/>
+</td>
+<td align="center">
+<b>Categoría Seleccionada</b><br><br>
+<img src="assets/unizumi/category_4n.jpg" width="220" alt="Category Selected"/>
+</td>
+</tr><td align="center">
+<b>Selección de Categorías</b><br><br>
+<img src="assets/unizumi/category_5.jpg" width="220" alt="Category Selection"/>
+</td>
+<td align="center">
+<b>Categoría Seleccionada</b><br><br>
+<img src="assets/unizumi/category_5n.jpg" width="220" alt="Category Selected"/>
+</td>
+<tr>
+<td align="center">
+<b>Selección de Modo de Juego</b><br><br>
+<img src="assets/unizumi/game_mode_1.jpg" width="220" alt="Game Mode Selection"/>
+</td>
+<td align="center">
+<b>Modo Seleccionado</b><br><br>
+<img src="assets/unizumi/game_mode_1r.jpg" width="220" alt="Game Mode Selected"/>
+</td>
+</tr>
+<td align="center">
+<b>Selección de Modo de Juego</b><br><br>
+<img src="assets/unizumi/game_mode_2.jpg" width="220" alt="Game Mode Selection"/>
+</td>
+<td align="center">
+<b>Modo Seleccionado</b><br><br>
+<img src="assets/unizumi/category_1n.jpg" width="220" alt="Game Mode Selected"/>
+</td>
+</tr>
+<td align="center">
+<b>Selección de Modo de Juego</b><br><br>
+<img src="assets/unizumi/game_mode_3.jpg" width="220" alt="Game Mode Selection"/>
+</td>
+<td align="center">
+<b>Modo Seleccionado</b><br><br>
+<img src="assets/unizumi/game_mode_3m.jpg" width="220" alt="Game Mode Selected"/>
+</td>
+</tr>
+</table>
+</div>
+
+### Pantalla de Quiz
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>Pregunta de Trivia</b><br><br>
+<img src="assets/unizumi/answare_quiz.jpg" width="220" alt="Quiz Question"/>
+</td>
+<td align="center">
+<b>Respuesta Correcta</b><br><br>
+<img src="assets/unizumi/answare_quiz_correct.jpg" width="220" alt="Correct Answer"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>Incorrecta Por Falta De Tiempo</b><br><br>
+<img src="assets/unizumi/answare_quiz_error_1.jpg" width="220" alt="Wrong Answer"/>
+</td>
+<td align="center">
+<b>Respuesta Incorrecta</b><br><br>
+<img src="assets/unizumi/answare_quiz_error_2.jpeg" width="220" alt="Error Feedback"/>
+</td>
+</tr>
+</table>
+</div>
+
+### Resultados
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<b>Pantalla de Resultados</b><br><br>
+<img src="assets/unizumi/result_quiz.jpg" width="220" alt="Results Screen"/>
+</td>
+</tr>
+</table>
+</div>
+
 ### 🔧 Control de Versiones
 
 - Git
@@ -461,147 +603,7 @@ Componentes y widgets reutilizables en múltiples pantallas, garantizando consis
   - Padding automático
   - Usado en encabezados de Setup, Leaderboard, etc.
 
-## �📸 Imágenes de la Aplicación
 
-### Icono de la Aplicación
-
-<div align="center">
-<img src="assets/icons/app_icon.png" width="140" alt="App Icon"/>
-</div>
-
-### Pantallas Principales
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<b>Splash/Carga</b><br><br>
-<img src="assets/unizumi/carga_app.jpg" width="220" alt="Splash Screen"/>
-</td>
-<td align="center">
-<b>Bienvenida</b><br><br>
-<img src="assets/unizumi/welcome_screen.jpg" width="220" alt="Welcome Screen"/>
-</td>
-</tr>
-</table>
-</div>
-
-### Configuración del Quiz
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<b>Selección de Categorías</b><br><br>
-<img src="assets/unizumi/category_1.jpg" width="220" alt="Category Selection"/>
-</td>
-<td align="center">
-<b>Categoría Seleccionada</b><br><br>
-<img src="assets/unizumi/category_1n.jpg" width="220" alt="Category Selected"/>
-</td>
-</tr>
-<td align="center">
-<b>Selección de Categorías</b><br><br>
-<img src="assets/unizumi/category_2.jpg" width="220" alt="Category Selection"/>
-</td>
-<td align="center">
-<b>Categoría Seleccionada</b><br><br>
-<img src="assets/unizumi/category_2n.jpg" width="220" alt="Category Selected"/>
-</td>
-</tr><td align="center">
-<b>Selección de Categorías</b><br><br>
-<img src="assets/unizumi/category_3.jpg" width="220" alt="Category Selection"/>
-</td>
-<td align="center">
-<b>Categoría Seleccionada</b><br><br>
-<img src="assets/unizumi/category_3n.jpg" width="220" alt="Category Selected"/>
-</td>
-</tr><td align="center">
-<b>Selección de Categorías</b><br><br>
-<img src="assets/unizumi/category_4.jpg" width="220" alt="Category Selection"/>
-</td>
-<td align="center">
-<b>Categoría Seleccionada</b><br><br>
-<img src="assets/unizumi/category_4n.jpg" width="220" alt="Category Selected"/>
-</td>
-</tr><td align="center">
-<b>Selección de Categorías</b><br><br>
-<img src="assets/unizumi/category_5.jpg" width="220" alt="Category Selection"/>
-</td>
-<td align="center">
-<b>Categoría Seleccionada</b><br><br>
-<img src="assets/unizumi/category_5n.jpg" width="220" alt="Category Selected"/>
-</td>
-<tr>
-<td align="center">
-<b>Selección de Modo de Juego</b><br><br>
-<img src="assets/unizumi/game_mode_1.jpg" width="220" alt="Game Mode Selection"/>
-</td>
-<td align="center">
-<b>Modo Seleccionado</b><br><br>
-<img src="assets/unizumi/game_mode_1r.jpg" width="220" alt="Game Mode Selected"/>
-</td>
-</tr>
-<td align="center">
-<b>Selección de Modo de Juego</b><br><br>
-<img src="assets/unizumi/game_mode_2.jpg" width="220" alt="Game Mode Selection"/>
-</td>
-<td align="center">
-<b>Modo Seleccionado</b><br><br>
-<img src="assets/unizumi/category_1n.jpg" width="220" alt="Game Mode Selected"/>
-</td>
-</tr>
-<td align="center">
-<b>Selección de Modo de Juego</b><br><br>
-<img src="assets/unizumi/game_mode_3.jpg" width="220" alt="Game Mode Selection"/>
-</td>
-<td align="center">
-<b>Modo Seleccionado</b><br><br>
-<img src="assets/unizumi/game_mode_3m.jpg" width="220" alt="Game Mode Selected"/>
-</td>
-</tr>
-</table>
-</div>
-
-### Pantalla de Quiz
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<b>Pregunta de Trivia</b><br><br>
-<img src="assets/unizumi/answare_quiz.jpg" width="220" alt="Quiz Question"/>
-</td>
-<td align="center">
-<b>Respuesta Correcta</b><br><br>
-<img src="assets/unizumi/answare_quiz_correct.jpg" width="220" alt="Correct Answer"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>Incorrecta Por Falta De Tiempo</b><br><br>
-<img src="assets/unizumi/answare_quiz_error_1.jpg" width="220" alt="Wrong Answer"/>
-</td>
-<td align="center">
-<b>Respuesta Incorrecta</b><br><br>
-<img src="assets/unizumi/answare_quiz_error_2.jpeg" width="220" alt="Error Feedback"/>
-</td>
-</tr>
-</table>
-</div>
-
-### Resultados
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<b>Pantalla de Resultados</b><br><br>
-<img src="assets/unizumi/result_quiz.jpg" width="220" alt="Results Screen"/>
-</td>
-</tr>
-</table>
-</div>
 
 ## 📦 Release 1.0
 
