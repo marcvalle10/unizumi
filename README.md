@@ -4,7 +4,7 @@ Aplicación móvil desarrollada en **Flutter** que ofrece una experiencia de tri
 
 <br>
 
-<img src="assets/unizumi/app_icon.png" width="120" alt="App Icon"/>
+<img src="assets/icons/app_icon.png" width="120" alt="App Icon"/>
 
 <br><br>
 
