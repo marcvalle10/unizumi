@@ -579,11 +579,11 @@ Componentes y widgets reutilizables en múltiples pantallas, garantizando consis
 </tr>
 <tr>
 <td align="center">
-<b>Respuesta Incorrecta</b><br><br>
+<b>Incorrecta Por Falta De Tiempo</b><br><br>
 <img src="assets/unizumi/answare_quiz_error_1.jpg" width="220" alt="Wrong Answer"/>
 </td>
 <td align="center">
-<b>Feedback de Error</b><br><br>
+<b>Respuesta Incorrecta</b><br><br>
 <img src="assets/unizumi/answare_quiz_error_2.jpeg" width="220" alt="Error Feedback"/>
 </td>
 </tr>
